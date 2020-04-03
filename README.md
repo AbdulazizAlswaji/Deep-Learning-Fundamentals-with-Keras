@@ -1,9 +1,5 @@
-# Deep-Learning-Fundamentals-with-KerasLearning Objectives
+# DeepLearning fundamentals with Keras
 
-
-Learning Objectives
-
-* Exciting applications of deep learning and why it is really rewarding to learn how to leverage deep learning skills.
 
 * Neural networks and how most of the deep learning algorithms are inspired by the way brain functions and the neurons process data.
 
